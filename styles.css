@@ -1,0 +1,110 @@
+body {
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 5% 15%;
+}
+
+#title .container-fluid {
+  padding: 0% 20%;
+  text-align: left;
+}
+
+#title h5 {
+  text-align: right;
+  padding: 4% 2% 0 0;
+  color: #08615f;
+  line-height: 0rem;
+}
+
+/* section */
+
+.colored-section {
+  background-color: #064844;
+  color: white;
+}
+
+/* navigation bar */
+.navbar {
+  padding:0 0 2.5rem;
+}
+
+.navbar-brand {
+  font-family: "Roboto";
+  line-height: 1;
+  font-size: 3.5rem;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Montserrat"
+}
+
+.info {
+  text-align: center;
+}
+
+.info h3 {
+  color: #08615f;
+}
+
+.info h4 {
+  color: #0a7d7a;
+}
+
+.info button {
+  margin: 2% 0 3% 0;
+}
+
+/* features */
+
+#features {
+  position: relative;
+}
+
+#features .container-fluid {
+  padding: 3% 20%;
+}
+
+.features-styling {
+  text-align: left;
+  padding: 5%;
+}
+
+.features-styling h6 {
+  padding-bottom: 5%;
+}
+
+.features-styling h5 {
+  padding-top: 5%;
+  color: #08615f;
+}
+
+.features-styling p {
+  font-size: 0.8rem;
+}
+
+.features-styling .image{
+  width: 250px;
+  height: 150px;
+}
+
+/* footer */
+
+#footer p {
+  text-align: left;
+}
+
+#footer .container-fluid {
+  padding: 2% 20%;
+  font-size: 0.7rem;
+}
+
+#footer h6 {
+  text-align: right;
+}
